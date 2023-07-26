@@ -1,0 +1,15 @@
+.result .first,.result .name,.last{
+   display: flex;
+   flex-direction: left;
+   justify-content: space-around;
+   background-color: #eee;
+   text-align: center;
+}
+caption{
+   font-weight: bold;
+   font-size: 20px;
+}
+table, th, td,h4 {
+   text-align: center;
+   padding: 5px 8px;
+}
